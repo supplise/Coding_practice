@@ -3,8 +3,17 @@
 
 ### 내 답
 <pre><code>
+#define _CRT_SECURE_NO_WARNINGS
+#include stdio.h
 
+int main() {
+    int a, b;
+    scanf("%d %d", &a, &b);
+    printf("%d", a * b);
+    return 0;
+}
 </code></pre>
 
 
 #### 느낀점(배운점)
+전꺼에서 곱하기한부분
