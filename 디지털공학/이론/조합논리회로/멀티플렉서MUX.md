@@ -4,6 +4,7 @@
 
 진리표<br>
 ![2](https://user-images.githubusercontent.com/81015704/118645212-9c3f0100-b819-11eb-9014-6633c6ed6917.jpg)
+블럭도<br>
 ![1](https://user-images.githubusercontent.com/81015704/118645201-9b0dd400-b819-11eb-9f7c-b532365b081e.jpg)
-
+논리회로도<
 ![3](https://user-images.githubusercontent.com/81015704/118645213-9c3f0100-b819-11eb-99bd-8b19c341b9fc.jpg)
