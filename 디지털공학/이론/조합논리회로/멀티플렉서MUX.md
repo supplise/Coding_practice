@@ -15,7 +15,11 @@
 ![123](https://user-images.githubusercontent.com/81015704/118645538-03f54c00-b81a-11eb-943f-c45350abc1bb.jpg)
 #### 진리표
 ![123455](https://user-images.githubusercontent.com/81015704/118645549-08216980-b81a-11eb-8ece-2732be47de61.jpg)
+<br>
 A가 입력선일경우(자동으로 B와C는 선택선)일때
+<br>
+설명:옆에 보면 B와C가 겹치는 부분이 있다 그부분에서 반복되기전까지 옆으로 출력하다가 반복되면 아래로 내려준다.
+<br>
 ![a](https://user-images.githubusercontent.com/81015704/118646104-b88f6d80-b81a-11eb-92d5-75bc7d2d6fae.jpg)
 ![a블록도](https://user-images.githubusercontent.com/81015704/118646112-baf1c780-b81a-11eb-8399-b85be28fa830.jpg)
 
