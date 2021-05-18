@@ -23,6 +23,7 @@
 
 ![a](https://user-images.githubusercontent.com/81015704/118646104-b88f6d80-b81a-11eb-92d5-75bc7d2d6fae.jpg)
 ![a블록도](https://user-images.githubusercontent.com/81015704/118646112-baf1c780-b81a-11eb-8399-b85be28fa830.jpg)
+pg)
 
 <br>
 #### B가 입력선일경우(자동으로 A와C는 선택선)일때
@@ -41,6 +42,6 @@
 <br>
 
 ![c](https://user-images.githubusercontent.com/81015704/118646540-479c8580-b81b-11eb-987f-212483157da2.jpg)
-![c블록도](https://user-images.githubusercontent.com/81015704/118646544-48351c00-b81b-11eb-8199-ab8506765547.jpg)
+![c블록도](https://user-images.githubusercontent.com/81015704/118646685-7c104180-b81b-11eb-9db8-99cbce31e2d6.jpg)
 
 
