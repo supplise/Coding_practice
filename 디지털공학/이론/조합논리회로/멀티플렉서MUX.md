@@ -4,7 +4,12 @@
 
 진리표<br>
 ![2](https://user-images.githubusercontent.com/81015704/118645212-9c3f0100-b819-11eb-9014-6633c6ed6917.jpg)<br>
+
 블럭도<br>
 ![1](https://user-images.githubusercontent.com/81015704/118645201-9b0dd400-b819-11eb-9f7c-b532365b081e.jpg)<br>
 논리회로도<br>
 ![3](https://user-images.githubusercontent.com/81015704/118645213-9c3f0100-b819-11eb-99bd-8b19c341b9fc.jpg)<br>
+예제풀이<br>![123](https://user-images.githubusercontent.com/81015704/118645538-03f54c00-b81a-11eb-943f-c45350abc1bb.jpg)
+![123455](https://user-images.githubusercontent.com/81015704/118645549-08216980-b81a-11eb-8ece-2732be47de61.jpg)
+
+
