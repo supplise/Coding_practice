@@ -17,20 +17,20 @@ int main(void) {
   //2번
 		count = 0;
 		total = 0;
-   //3번
+  //3번
 		scanf("%s", t);
 		for (int j = 0; t[j] != '\0'; j++) {
-    //4번
+  //4번
 			if (t[j] == 'O') {
 				count ++;
 			}
 			else {
 				count = 0;
 			}
-     //5번
+  //5번
             total += count;
 		}
-    //6
+  //6번
 		printf("%d\n", total);
 	}
 }
