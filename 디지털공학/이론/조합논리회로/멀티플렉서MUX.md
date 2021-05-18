@@ -20,13 +20,16 @@
 <br>
 설명:옆에 보면 B와C가 겹치는 부분이 있다 그부분에서 반복되기전까지 옆으로 출력하다가 반복되면 아래로 내려준다.
 <br>
+
 ![a](https://user-images.githubusercontent.com/81015704/118646104-b88f6d80-b81a-11eb-92d5-75bc7d2d6fae.jpg)
 ![a블록도](https://user-images.githubusercontent.com/81015704/118646112-baf1c780-b81a-11eb-8399-b85be28fa830.jpg)
+
 <br>
 #### B가 입력선일경우(자동으로 A와C는 선택선)일때
 <br>
 설명:위에 나온것처럼 00,01,다음 00,01이 나오므로 00,01에서 반복되는부분이나오니 아래로내려준다그후 10,11부분에선 다시 위에 적어주고 2번째10,11에서 내려준다
 <br>
+
 ![b](https://user-images.githubusercontent.com/81015704/118646489-394e6980-b81b-11eb-8706-3fe20d78f94b.jpg)
 ![ㅠ블록도](https://user-images.githubusercontent.com/81015704/118646501-3d7a8700-b81b-11eb-93ac-5fbde2142997.jpg)
 
@@ -36,6 +39,7 @@
 설명:00,00처럼 바로바로 나오므로 한칸씩만차지하고 바로 내려짐
 
 <br>
+
 ![c](https://user-images.githubusercontent.com/81015704/118646540-479c8580-b81b-11eb-987f-212483157da2.jpg)
 ![c블록도](https://user-images.githubusercontent.com/81015704/118646544-48351c00-b81b-11eb-8199-ab8506765547.jpg)
 
