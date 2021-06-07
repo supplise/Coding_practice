@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/81015704/121031488-57d5ce00-c7e5-11eb-8fd2-ab284be5a26d.png)
 
 ### 내코드
+<pre><code>
 int N=0;
 void setup()
 {
@@ -40,3 +41,4 @@ N++;
      CLS();
    }
 }
+</code></pre>
