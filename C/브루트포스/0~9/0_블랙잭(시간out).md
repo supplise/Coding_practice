@@ -1,4 +1,4 @@
-# 2번 문제 풀이
+# 0번 문제 풀이
 ![image](https://user-images.githubusercontent.com/81015704/121201616-9e8ffa80-c8af-11eb-991c-269e9e1ecb45.png)
 ![image](https://user-images.githubusercontent.com/81015704/121201647-a51e7200-c8af-11eb-83bd-8fe957ae4386.png)
 
