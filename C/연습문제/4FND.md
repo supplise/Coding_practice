@@ -1,3 +1,4 @@
+<code><pre>
 void setup()
 {
   for(int x=2;x<14;x++){
@@ -117,3 +118,4 @@ void loop()
   	if(N>=24*60-1){N=0;time();}else{N++;time();}
   }
 }
+</pre></code>
